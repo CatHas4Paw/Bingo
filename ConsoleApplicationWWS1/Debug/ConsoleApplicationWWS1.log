@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (ConsoleApplicationWWS1.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  stdafx.cpp
+  Bingo.cpp
+C:\Users\MS-23\Documents\Programme\C++\Labor\Bingo\ConsoleApplicationWWS1\ConsoleApplicationWWS1\Bingo.cpp(46,5): warning C4101: "Zahlen": Unreferenzierte lokale Variable
+  CKarte.cpp
+  CLostrommel.cpp
+  Code wird generiert...
+  ConsoleApplicationWWS1.vcxproj -> C:\Users\MS-23\Documents\Programme\C++\Labor\Bingo\ConsoleApplicationWWS1\Debug\Bingo.exe
